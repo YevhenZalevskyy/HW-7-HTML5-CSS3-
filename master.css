@@ -12,8 +12,6 @@ body{
 
 nav{
   background: #000000;
-  width: auto;
-  height: auto;
   margin: 24.02px 71.66px 23.98px 32.34px;
   color: #ffffff;
   border-radius: 24px;
@@ -63,7 +61,7 @@ nav{
   display: flex;
   margin-left: 0.32px;
   flex-direction: row;
-  margin-bottom: 24.09px;
+  margin-bottom: 22.09px;
 }
 
 .header_text{
@@ -134,7 +132,7 @@ a{
 }
 
 .cc_wrapper{
-  margin-bottom: 39.81px;
+  margin-bottom: 35.81px;
   display: flex;
   align-items: center;
 }
@@ -230,7 +228,7 @@ button{
   border-radius: 14px;
   background: #f5f5f7;
   display: flex;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
 }
 
 .figma{
@@ -250,7 +248,7 @@ button{
 
 .clock1{
   margin-right: 7.96px;
-  margin-left: 57.55px;
+  margin-left: 55.55px;
 }
 
 .clock2{
