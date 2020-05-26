@@ -190,7 +190,7 @@ a{
 }
 
 .view_course{
-  padding: 12.55px 23.92px 12.45px 24.08px;
+  padding: 12px 23.92px 12px 24.08px;
   margin-left: 31.61px;
   margin-top: 19.95px;
   margin-bottom: 20.05px;
@@ -296,10 +296,6 @@ button{
   margin-right: 7px;
 }
 
-.ps{
-  margin: 1.37px 3.97px 1.37px -2.03px;
-}
-
 .right_column{
   display: flex;
   flex-direction: column;
@@ -325,9 +321,9 @@ button{
 }
 
 .bell{
-  margin-left: 35.41px;
+  margin-left: 43.41px;
   margin-right: 17.67px;
-  margin-bottom: 7px;
+  margin-bottom: 10px;
 }
 
 .face{
@@ -425,8 +421,8 @@ button{
   background: #F5F5F7;
   border-radius: 14px;
   display: flex;
-  padding-left: 22.69px;
-  margin-top: 36.2px;
+  padding-left: 20.69px;
+  margin-top: 43.2px;
   }
 
 .left_premium{
