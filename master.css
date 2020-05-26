@@ -212,6 +212,7 @@ button{
   border-radius: 8px;
   color: #fff;
   cursor: pointer;
+  border: none;
 }
 
 .c_arrow{
@@ -315,7 +316,7 @@ button{
   background-image: url(./icons/loop.svg);
   background-position: left 5% center;
   background-repeat: no-repeat;
-  padding-left: 20px;
+  padding-left: 45px;
   min-height: 30px;
   width: 57%;
 }
