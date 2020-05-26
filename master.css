@@ -12,7 +12,7 @@ body{
 
 nav{
   background: #000000;
-  margin: 24.02px 71.66px 66.98px 32.34px;
+  margin: 24.02px 71.66px 66.98px 10px;
   color: #ffffff;
   border-radius: 24px;
   box-shadow: 30px 30px 30px 1px rgba(0, 0, 0, 0.2);
@@ -317,11 +317,11 @@ button{
   border-radius: 8px;
   border: none;
   background-image: url(./icons/loop.svg);
-  background-position: left 5% top 15px;
+  background-position: left 5% center;
   background-repeat: no-repeat;
   padding-left: 20px;
-  min-height: 40px;
-  width: 56%;
+  min-height: 35px;
+  width: 57%;
 }
 
 .bell{
@@ -425,7 +425,7 @@ button{
   background: #F5F5F7;
   border-radius: 14px;
   display: flex;
-  padding-left: 25.69px;
+  padding-left: 22.69px;
   margin-top: 36.2px;
   }
 
@@ -451,7 +451,7 @@ button{
 }
 
 .go{
-  margin-top: 23.22px;
-  margin-bottom: 15.78px;
+  margin-top: 22.22px;
+  margin-bottom: 16.78px;
   padding: 12.55px 22.92px 12.45px 24.08px;
 }
